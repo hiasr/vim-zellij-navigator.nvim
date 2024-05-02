@@ -1,0 +1,2 @@
+## Zellij Hook
+This plugin is designed to be used in combination with [vim-zellij-navigator](https://github.com/hiasr/vim-zellij-navigator) to provide a more seamless experience when navigating between Vim and Zellij. It allows for vim-zellij-navigator to detect if the current buffer is a Neovim buffer or not. Refer to the documentation of [vim-zellij-navigator](https://github.com/hiasr/vim-zellij-navigator) for more information on how to use this plugin.
